@@ -1,7 +1,11 @@
 this is text file before branching and updating on branch
 up until this content were typed in master branch
 
+<<<<<<< HEAD
 this part of the text was edited on the development branch
 so this change should be seen on branch
 
 
+=======
+NEW Content Added 
+>>>>>>> d89dca940db40cd9dc81a16a09b3d8c971416ac1
