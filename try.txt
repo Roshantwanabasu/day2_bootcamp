@@ -1,0 +1,3 @@
+this is text file before branching and updating on branch
+up until this content were typed in master branch
+
